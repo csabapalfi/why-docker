@@ -1,14 +1,16 @@
-# hello docker
-
-basic intro to docker
-
-## why?
-
-* lots of smaller services - bigger operational overhead
+# why should you care about docker?
 
 ---
 
-# what problems? current solutions
+## lots of smaller services
+
+* bigger operational overhead
+* trickier to run locally
+
+---
+
+# what problems? 
+(and potential solutions without docker)
 
 ---
 
@@ -27,7 +29,7 @@ basic intro to docker
 
 ## packaging
 * just build a deb/rpm package - fpm
-* you know what f stand for, right?
+* you know what f stands for, right?
 
 ---
 
